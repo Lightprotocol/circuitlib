@@ -1,0 +1,9 @@
+node_modules
+test-ledger
+ptau17
+ptau15
+tests/*.js
+*.js
+!witness_calculator.js
+lib
+build
